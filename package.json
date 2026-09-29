@@ -22,10 +22,10 @@
   },
   "devDependencies": {
     "@types/node": "24.x",
+    "just-bash": "^3.4.2",
     "typescript": "7.0.2"
   },
   "engines": {
     "node": "24.x"
   }
-
 }
